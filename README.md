@@ -5,4 +5,3 @@
 5]. Now run hack.py from the folder Python Source Code
 6]. Thats it!
 
-Note : I took initial help from seniers to install pip and bs4 and some from internet
